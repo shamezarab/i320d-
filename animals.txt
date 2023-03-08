@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-lion contributerA
+lion contributorB
 tiger
 leopard
 turtle
-=======
-
->>>>>>> d4e277073a1309188cce27ecd816db8446077721
