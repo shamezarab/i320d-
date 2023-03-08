@@ -1,1 +1,8 @@
+<<<<<<< HEAD
+lion contributerA
+tiger
+leopard
+turtle
+=======
 
+>>>>>>> d4e277073a1309188cce27ecd816db8446077721
